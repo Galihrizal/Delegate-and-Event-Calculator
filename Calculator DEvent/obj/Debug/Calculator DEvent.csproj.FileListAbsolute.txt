@@ -1,0 +1,11 @@
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator DEvent.csprojAssemblyReference.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator_DEvent.FrmCalculator.resources
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator_DEvent.EntryCalculator.resources
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator_DEvent.Properties.Resources.resources
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator DEvent.csproj.GenerateResource.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator DEvent.csproj.CoreCompileInputs.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\bin\Debug\Calculator DEvent.exe.config
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\bin\Debug\Calculator DEvent.exe
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\bin\Debug\Calculator DEvent.pdb
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator DEvent.exe
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_3\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Calculator DEvent\Calculator DEvent\obj\Debug\Calculator DEvent.pdb
